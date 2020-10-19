@@ -2,4 +2,4 @@ This repository of 'learning' is uesd for storing some pracitce and summary in t
 Now the version includes MarkDown and Git.
 Ps:
 Git is a distributed version control system.
-Git is free software.
+Git is free software distributed under the GPL.
